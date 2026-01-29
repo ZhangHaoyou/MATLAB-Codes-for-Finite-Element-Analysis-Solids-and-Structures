@@ -1,0 +1,1 @@
+This repo is created to learn the book "MATLAB Codes for Finite Element Analysis: Solids and Structures" second edition by Antonio J. M. Ferreira and Nicholas Fantuzzi.
